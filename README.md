@@ -1,4 +1,4 @@
 # lokalbokning
 Lokalbokning
 
-Detta är lokalbokningsprogrammet
+Detta är lokalbokningsprogrammet vi använder oss av
